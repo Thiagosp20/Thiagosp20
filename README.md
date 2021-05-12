@@ -1,10 +1,11 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/search?q=gif+computação&sxsrf=ALeKk00OfzXW4mN6y65iq3XRtM9gzOL5Ug:1620841009076&source=lnms&tbm=isch&sa=X&ved=2">
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+### Hi there! 👋, I'm Thiago Souza Peixoto ✨
+I am a student in computer engineering in search of job opportunities and collaboration in projects related to engineering
+
+🔭 I am currently looking for a job. (moreover, I am improving my algorithm skills regularly).
+🌱 I'm currently improving myself in HTML and studying artificial intelligence
+🤝 I'm looking for a collaborator on HTML projects
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Thiagosp20)
 
