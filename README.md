@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/Thiagosp20/Thiagosp20/blob/main/4b6c2b4d93af1f062cf9f17288e614be.gif">
+  </p>
 
 ### Hi there! 👋, I'm Thiago Souza Peixoto ✨
 I am a student in computer engineering in search of job opportunities and collaboration in projects related to engineering
