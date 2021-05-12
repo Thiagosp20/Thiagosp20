@@ -1,6 +1,6 @@
 <div align="center">
   
-<b> Hi there! 👋 I'm Thiago Souza Peixoto ✨ </b><br>
+<h1> Hi there! 👋 I'm Thiago Souza Peixoto ✨ </h1>
 
 <img width="220" src="https://github.com/Thiagosp20/Thiagosp20/blob/main/4b6c2b4d93af1f062cf9f17288e614be.gif"><br>
 <hr>
