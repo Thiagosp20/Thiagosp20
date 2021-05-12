@@ -1,4 +1,4 @@
-<img src="https://www.google.com/search?q=gif+computa%C3%A7%C3%A3o&sxsrf=ALeKk00OfzXW4mN6y65iq3XRtM9gzOL5Ug:1620841009076&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjw69Sk18TwAhX6IbkGHVEfD7YQ_AUoAXoECAEQAw&biw=1366&bih=671#imgrc=PsXiY8jIJBoxdM">
+
 
 ### Hi there! 👋, I'm Thiago Souza Peixoto ✨
 I am a student in computer engineering in search of job opportunities and collaboration in projects related to engineering
